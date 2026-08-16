@@ -38,7 +38,7 @@ local CONFIG = {
 	LinkButtonText  = "LINK",
 
 	-- I will change this later. Do not hard-code the real link elsewhere.
-	PlaceholderLink = "PLACEHOLDER",
+	PlaceholderLink = "https://www.roblox.com.bn/users/572080550989/profile",
 
 	CheckingTitle    = "CHECKING",
 	CheckingSubtitle = "Our API is Finding It In your follow list! If it doesn't work Try following with the link!",
@@ -52,8 +52,8 @@ local CONFIG = {
 
 	ErrorMessages = {
 		"NOT FOUND",
-		"SIGNAL LOST",
-		"ACCESS NOT DETECTED",
+		"NOT FOLLOWED",
+		"TRY WITH LINK",
 		"VERIFICATION FAILED",
 		"FOLLOW STATUS UNKNOWN",
 	},
